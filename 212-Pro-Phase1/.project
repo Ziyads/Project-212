@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>212-Pro-Phase1</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>ratings.txt</name>
+			<type>1</type>
+			<locationURI>PARENT-3-PROJECT_LOC/Documents/%D8%AC%D8%A7%D9%85%D8%B9%D8%A9/3rd/5/%D8%B9%D8%A7%D9%84-212/Project/Phase-1/data/ratings.txt</locationURI>
+		</link>
+	</linkedResources>
+</projectDescription>
